@@ -1,2 +1,4 @@
-# env
+target/
+dbt_packages/
+logs/
 elt_env/
